@@ -2,6 +2,8 @@
 
 ## How to deploy apache superset on docker
 
+![logo](https://avatars3.githubusercontent.com/u/42724554?s=200&v=4)
+
 Apache Superset is a fantastic tool for data viz. You should really try it if you haven't yet.
 The official documentation [here](https://superset.apache.org/) is great but really describes only two main path of deploying: 
 using a docker compose or from scratch in dev mode.
